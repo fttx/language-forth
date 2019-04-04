@@ -3,7 +3,7 @@
     "publisher": "fttx",
     "displayName": "language-forth",
     "description": "Forth language support in VSCode with objects.fs highlighting added from Gforth",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.32.0"
     },
