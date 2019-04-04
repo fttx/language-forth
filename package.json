@@ -1,9 +1,9 @@
 {
     "name": "language-forth",
     "publisher": "fttx",
-    "displayName": "language-forth",
+    "displayName": "Forth",
     "description": "Forth language support in VSCode with objects.fs highlighting added from Gforth",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.32.0"
     },
